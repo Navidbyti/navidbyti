@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm homeless.
+Currently studying Python.
 
 <!--
 
